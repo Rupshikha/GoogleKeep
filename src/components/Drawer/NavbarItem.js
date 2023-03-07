@@ -5,7 +5,7 @@ export const NavbarItem = [
   {
     title: "Notes",
     icon: LightbulbOutlinedIcon,
-    route: "/note",
+    route: "/",
   },
 
   {
