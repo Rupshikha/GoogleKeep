@@ -1,0 +1,18 @@
+.img{
+   height:40px;
+   width:40px;
+   margin-right: .8em;
+}
+.text{
+   color:rgb(137, 136, 136);
+   margin-right: 2em !important;
+   
+}
+
+.search{
+   margin-left: 5em !important;
+   &:hover{
+   
+        cursor: pointer;  
+    }
+}
